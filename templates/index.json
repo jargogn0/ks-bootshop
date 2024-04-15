@@ -171,21 +171,21 @@
         "collection_rznnLq": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
+            "collection": "collection-maagal",
             "title": ""
           }
         },
         "collection_KdHXk9": {
           "type": "collection",
           "settings": {
-            "collection": "women",
+            "collection": "gamou",
             "title": ""
           }
         },
         "collection_b7ELCB": {
           "type": "collection",
           "settings": {
-            "collection": "children",
+            "collection": "tabaski",
             "title": ""
           }
         },
