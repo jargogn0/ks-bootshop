@@ -39,7 +39,7 @@
   <div id="header-group" class="sticky-top">
     {% sections 'header-group' %}
     <select id="languageSelector" onchange="changeLanguage()">
-      <option value="en" {% if request.locale.iso_code ==  %}selected{% endif %}>English</option>
+      <option value="" {% if request.locale.iso_code == '' %}selected{% endif %}>English</option>
       <option value="fr" {% if request.locale.iso_code == 'fr' %}selected{% endif %}>French</option>
       <option value="sv" {% if request.locale.iso_code == 'sv' %}selected{% endif %}>Swedish</option>
     </select>
