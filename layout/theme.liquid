@@ -40,8 +40,8 @@
     {% sections 'header-group' %}
     <select id="languageSelector" onchange="changeLanguage()">
       <option value="" {% if request.locale.iso_code == '' %}selected{% endif %}>English</option>
-      <option value="fr" {% if request.locale.iso_code == 'fr' %}selected{% endif %}>French</option>
       <option value="sv" {% if request.locale.iso_code == 'sv' %}selected{% endif %}>Swedish</option>
+      <option value="fr" {% if request.locale.iso_code == 'fr' %}selected{% endif %}>French</option>
     </select>
   </div>
 
