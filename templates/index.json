@@ -25,10 +25,11 @@
           "settings": {
             "img_mobile": "shopify:\/\/shop_images\/c1f5840f-afb0-427b-8e15-7684058308d8.jpg",
             "img_desktop": "shopify:\/\/shop_images\/c1f5840f-afb0-427b-8e15-7684058308d8.jpg",
+            "video_desktop": "shopify:\/\/files\/videos\/6718be52-c0bf-477d-bba4-446c8f772ff2.MP4",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
+            "subtitle": "AfiaShop Jamm Rekk",
             "title": "Simple to Use, Easy to Customize",
             "description": "<p>Free Shopify Theme inspired by simplicity and elegance.<\/p>",
             "btn_primary_text": "Primary button",
