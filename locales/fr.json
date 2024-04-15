@@ -119,7 +119,28 @@
   "cart": {
     "shipping_calculator": {
       "title": "Calculer Frais de port",
-      "country": "Pays"
+      "country": "Pays",
+      "zip": "Fermeture éclair",
+      "btn_label": "Calculer",
+      "no_results": "Aucun tarif d'expédition trouvé !"
+    },
+    "title": "Chariot",
+    "empty_html": "<p>Votre carte est actuellement vide<\/p>",
+    "continue_shopping": "Continuer vos achats",
+    "quantity": "Quantité",
+    "property_view_file": "Voir la fiche",
+    "applied_discounts": "Remises appliquées",
+    "subtotal": "Total",
+    "taxes_shipping_at_checkout_html": "Taxes et <a href=\"\/policies\/shipping-policy\" target=\"_blank\">frais d'expédition<\/a> calculés à la caisse",
+    "checkout": "Vérifier",
+    "note": {
+      "title": "Ajouter une note à votre commande",
+      "label": "Votre message...",
+      "button": "Enregistrer la note",
+      "saved": "Remarque enregistrée"
+    },
+    "gift_upsell": {
+      "title": "Ajouter un emballage cadeau"
     }
   },
   "collection": {
@@ -139,8 +160,33 @@
       "clear_filter": "Effacer le filtre",
       "clear_all": "Supprimer tous les filtres",
       "view_results": {
-        "one": "Voir {{ count }} produit"
+        "one": "Voir {{ count }} produit",
+        "other": "Afficher {{ count }} produits"
       }
+    }
+  },
+  "product": {
+    "add_to_cart": "Ajouter au panier",
+    "buy_it_now": "Achetez-le maintenant",
+    "save": "Sauvegarder",
+    "sold_out": "Épuisé",
+    "unavilable": "Indisponible",
+    "quantity": "Quantité",
+    "unavailable": "Indisponible",
+    "product_options": "Options du produit",
+    "choose_options": "Choisissez les options",
+    "select_variant": "Variante Selecto",
+    "quick_view": "Aperçu rapide",
+    "regular_price": "Prix ​​habituel",
+    "sale_price": "Prix ​​de vente",
+    "stock_indicator": {
+      "low_stock_html": {
+        "one": "Seulement <b>{{ count }} article<\/b> est en stock !",
+        "other": "Seulement <b>{{ count }} articles<\/b> sont en stock !"
+      },
+      "normal_stock_html": "Actuellement, <b>{{ count }} articles<\/b> sont en stock !",
+      "no_stock": "Malheureusement, cet article est épuisé !",
+      "untracked_stock": "Actuellement, cet article est en stock"
     }
   }
 }
