@@ -4,29 +4,32 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="{{ settings.color_primary }}">
-
   <link rel="canonical" href="{{ canonical_url }}">
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-
   {%- unless settings.favicon == blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: '32', height: '32' }}">
   {%- endunless -%}
-
-  <title>
-    {{ page_title }}
-    {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}" {% endif -%}
-    {%- if current_page != 1 %} &ndash; Page {{ current_page }} {% endif -%}
-    {%- unless page_title contains shop.name %} &ndash; {{ shop.name }} {% endunless -%}
-  </title>
-
+  <title>{{ page_title }} {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}" {% endif -%} {%- if current_page != 1 %} &ndash; Page {{ current_page }} {% endif -%} {%- unless page_title contains shop.name %} &ndash; {{ shop.name }} {% endunless -%}</title>
   {% if page_description %}
     <meta name="description" content="{{ page_description | escape }}">
   {% endif %}
-
   {% render 'meta-tags' %}
   {{ content_for_header }}
   {% render 'styles-scripts' %}
+  <style>
+  #languageSelector {
+    padding: 8px;
+    margin-top: 10px;
+    background-color: #f1f1f1;
+    border: none;
+    font-size: 16px;
+    color: #333;
+  }
+  #languageSelector:hover {
+    background-color: #ddd;
+  }
+  </style>
 </head>
 <body class="{{ request.page_type | prepend: 'page-type-' }}">
   <a class="visually-hidden-focusable" href="#main">
@@ -36,10 +39,9 @@
   <div id="header-group" class="sticky-top">
     {% sections 'header-group' %}
     <select id="languageSelector" onchange="changeLanguage()">
-      <option value="en">English</option>
-      <option value="fr">French</option>
-      <option value="sv">Swedish</option>
-      <!-- Add more languages as needed -->
+      <option value="en" {% if request.locale.iso_code == 'en' %}selected{% endif %}>English</option>
+      <option value="fr" {% if request.locale.iso_code == 'fr' %}selected{% endif %}>French</option>
+      <option value="sv" {% if request.locale.iso_code == 'sv' %}selected{% endif %}>Swedish</option>
     </select>
   </div>
 
@@ -63,14 +65,8 @@
     var selector = document.getElementById('languageSelector');
     var selectedLanguage = selector.value;
     var currentUrl = window.location.href;
-    var basePath = currentUrl.substring(0, currentUrl.indexOf('/', 8)); // This extracts the base URL before the language path
-
-    if (currentUrl.includes('/en') || currentUrl.includes('/sv')) { // Add other language codes if necessary
-      newUrl = currentUrl.replace(/\/(en|sv)/, '/' + selectedLanguage); // Replace existing language code
-    } else {
-      newUrl = basePath + '/' + selectedLanguage + window.location.pathname; // Append language code if not present
-    }
-
+    var basePath = currentUrl.substring(0, currentUrl.indexOf('/', 8));
+    newUrl = basePath + '/' + selectedLanguage + window.location.pathname.replace(/^\/(en|fr|sv)/, '');
     window.location.href = newUrl;
   }
   </script>
