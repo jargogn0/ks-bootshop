@@ -322,6 +322,7 @@
         "item_qp7jPa": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/c18e3f90-0f7f-4aa4-a6e1-ca34c6377547.jpg",
             "title": "First Card",
             "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
             "btn_text": "Learn more",
@@ -331,6 +332,7 @@
         "item_h9wANh": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/c9432674-01bb-49c0-ab13-5d19c28d4e01.jpg",
             "title": "Second Card",
             "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
             "btn_text": "Learn more",
