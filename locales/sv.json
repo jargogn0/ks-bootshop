@@ -146,6 +146,20 @@
     "empty_html": "<p>Din varukorg är för närvarande tom<\/p>",
     "property_view_file": "Visa fil",
     "applied_discounts": "Tillämpade rabatter",
-    "taxes_shipping_at_checkout_html": "Skatter &amp; <a href=\"\/policies\/shipping-policy\" target=\"_blank\">Frakt<\/a> beräknas i kassan"
+    "taxes_shipping_at_checkout_html": "Skatter &amp; <a href=\"\/policies\/shipping-policy\" target=\"_blank\">Frakt<\/a> beräknas i kassan",
+    "note": {
+      "title": "Lägg till en anteckning till din beställning",
+      "label": "Ditt meddelande...",
+      "button": "Spara anteckning",
+      "saved": "Anteckningen sparad"
+    },
+    "shipping_calculator": {
+      "zip": "Blixtlås",
+      "btn_label": "Beräkna",
+      "no_results": "Inga fraktpriser hittades!"
+    },
+    "gift_upsell": {
+      "title": "Lägg till presentförpackning"
+    }
   }
 }
