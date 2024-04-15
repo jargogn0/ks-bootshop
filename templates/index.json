@@ -529,6 +529,7 @@
           "settings": {
             "title": "First Testimonial",
             "description": "<p>\"Shopping at AfiaShop has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
+            "img": "shopify:\/\/shop_images\/IMG_5507_4.jpg",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -537,7 +538,8 @@
           "type": "item",
           "settings": {
             "title": "Second Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
+            "description": "<p>\"Shopping at AfiaShop has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
+            "img": "shopify:\/\/shop_images\/c18e3f90-0f7f-4aa4-a6e1-ca34c6377547.jpg",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -649,7 +651,7 @@
         "slider_scrollbar": true,
         "slider_partial_slides_mobile": true,
         "slider_autoplay": 0,
-        "blog": "news",
+        "blog": "infos",
         "limit": 8,
         "article_card_text_align": "text-start",
         "article_card_img_orientation": "ratio-16x9",
