@@ -49,6 +49,8 @@
           "type": "mobile",
           "settings": {
             "container_max_width": "",
+            "logo": "shopify:\/\/shop_images\/IMG-20231205-WA0238-1.jpg",
+            "logo_transparent": "shopify:\/\/shop_images\/IMG-20231205-WA0238-1.jpg",
             "logo_height": 30,
             "main_menu": "",
             "collections_menu": "",
@@ -61,6 +63,8 @@
           "type": "desktop",
           "settings": {
             "container_max_width": "",
+            "logo": "shopify:\/\/shop_images\/IMG-20231205-WA0238-1.jpg",
+            "logo_transparent": "shopify:\/\/shop_images\/IMG-20231205-WA0238-1.jpg",
             "logo_height": 32,
             "main_menu": "",
             "pt": 5,
