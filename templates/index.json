@@ -123,7 +123,7 @@
         "border_opacity": 100,
         "container_max_width": "900",
         "text_align": "text-center",
-        "title": "Richtext",
+        "title": "AfiaShop Mbegte Rek",
         "title_font_size": "h3",
         "description": "<p>Add on optional description for this section<\/p>",
         "description_font_size": "fs-md",
@@ -171,7 +171,7 @@
         "collection_rznnLq": {
           "type": "collection",
           "settings": {
-            "collection": "men",
+            "collection": "frontpage",
             "title": ""
           }
         },
@@ -284,7 +284,8 @@
             "media_align_desktop": "",
             "media_border": "img-thumbnail",
             "img_orientation": "ratio-9x16",
-            "video_ratio": "adapt",
+            "video": "shopify:\/\/files\/videos\/6718be52-c0bf-477d-bba4-446c8f772ff2.MP4",
+            "video_ratio": "ratio-16x9",
             "video_autoplay": true,
             "video_loop": true,
             "video_muted": true,
