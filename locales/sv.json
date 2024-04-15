@@ -1,0 +1,151 @@
+{
+  "general": {
+    "accessibility": {
+      "skip_content": "Hoppa till innehållet",
+      "skip_product_content": "Hoppa till produktinnehåll",
+      "wishlist": "önskelista",
+      "recently_viewed": "Nyss sedda",
+      "account": "konto",
+      "localization": "Lokalisering",
+      "previous": "Tidigare",
+      "next": "Nästa",
+      "decrease_qty": "Minska mängden",
+      "increase_qty": "Öka kvantiteten",
+      "color_options": "Färgalternativ",
+      "social_media_links": "Sociala media",
+      "payment_methods": "Betalningsmetoder",
+      "cart_items": "Varukorgsartiklar",
+      "full_screen": "Fullskärm",
+      "pagination": "Paginering",
+      "announcements": "Meddelanden",
+      "slide_no": "Bild {{ number }}",
+      "scroll_down": "Scrolla ner"
+    },
+    "blog": {
+      "empty": "Inga inlägg hittades!",
+      "count_articles": {
+        "one": "{{ count }} inlägg",
+        "other": "{{ count }} inlägg"
+      },
+      "tags_btn": "Filtrera efter tagg",
+      "tags_title": "Filtrera inlägg",
+      "tags_show_all": "Visa alla",
+      "posted_in": "Inlagd i"
+    },
+    "contact_form": {
+      "phone": "Telefon (valfritt)"
+    },
+    "search": {
+      "empty_html": "<p>Börja skriva för att se resultat<\/p>",
+      "input_label": "Sök i vår butik...",
+      "suggestions": "Förslag",
+      "products": "Produkter",
+      "articles": "Blogginlägg",
+      "pages": "Sidor",
+      "results": {
+        "one": "{{ count }} resultat hittades",
+        "other": "{{ count }} resultat hittades"
+      },
+      "search_for": "Sök efter \" {{ terms }} \"",
+      "search_page": {
+        "title": "Sök i vår butik",
+        "title_search_performed": "Sökresultat",
+        "no_results": "Inga resultat hittades för \" {{ terms }} \". Kontrollera stavningen eller använd ett annat ord eller en annan fras.",
+        "results_with_count_and_term": {
+          "one": "{{ count }} resultat hittades för \" {{ terms }} \"",
+          "other": "{{ count }} resultat hittades för \" {{ terms }} \""
+        },
+        "count_products": {
+          "one": "{{ count }} produkt",
+          "other": "{{ count }} produkter"
+        }
+      }
+    },
+    "wishlist": {
+      "title": "önskelista",
+      "empty_html": "<p>Din önskelista är för närvarande tom<\/p>",
+      "wishlist": "önskelista",
+      "add": "Lägg till i önskelista",
+      "remove": "Ta bort från önskelistan"
+    },
+    "recently_viewed": {
+      "title": "nyss sedda",
+      "empty_html": "<p>Din lista är för närvarande tom<\/p>",
+      "remove_all": "Ta bort alla"
+    },
+    "newsletter": {
+      "input_label": "Skriv in din mailadress...",
+      "confirmation_text": "Tack för att du prenumererar, du kommer att höra från oss snart."
+    },
+    "404_page": {
+      "title": "404 - Sidan hittades inte",
+      "subtext": "Sidan du letade efter finns inte",
+      "button": "Gå tillbaka till startsidan"
+    },
+    "times": {
+      "ago": "sedan",
+      "moments": "ögonblick",
+      "second": "andra",
+      "seconds": "sekunder",
+      "minute": "minut",
+      "minutes": "minuter",
+      "hour": "timme",
+      "hours": "timmar",
+      "day": "dag",
+      "days": "dagar",
+      "expired": "Erbjudandet har löpt ut!"
+    },
+    "localization": {
+      "title": "Lokalisering"
+    },
+    "payment_icons": {
+      "secure": "100 % säkra och skyddade betalningar"
+    }
+  },
+  "collection": {
+    "empty_html": "Inga produkter hittades! <a href=\"\/collections\/all\">Visa alla \"<\/a>",
+    "count_products": {
+      "one": "{{ count }} produkt",
+      "other": "{{ count }} produkter"
+    },
+    "filters": {
+      "reset": "Återställa",
+      "from": "Från",
+      "to": "Till",
+      "view_more": "Visa mer",
+      "clear_filter": "Rensa filtret",
+      "clear_all": "Rensa alla filter",
+      "view_results": {
+        "one": "Visa {{ count }} produkt",
+        "other": "Visa {{ count }} produkter"
+      }
+    }
+  },
+  "product": {
+    "add_to_cart": "Lägg till i kundvagn",
+    "buy_it_now": "Köp det nu",
+    "save": "Spara",
+    "sold_out": "Utsåld",
+    "unavilable": "Otillgänglig",
+    "product_options": "Produktalternativ",
+    "choose_options": "Välj alternativ",
+    "quick_view": "Snabbtitt",
+    "regular_price": "Vanligt pris",
+    "sale_price": "Försäljningspris",
+    "stock_indicator": {
+      "low_stock_html": {
+        "one": "Endast, <b>{{ count }} vara<\/b> finns i lager!",
+        "other": "Endast <b>{{ count }} artiklar<\/b> finns i lager!"
+      },
+      "normal_stock_html": "För närvarande finns <b>{{ count }} artiklar<\/b> i lager!",
+      "no_stock": "Tyvärr är denna vara slutsåld!",
+      "untracked_stock": "För närvarande har denna artikel i lager"
+    }
+  },
+  "cart": {
+    "empty_html": "<p>Din varukorg är för närvarande tom<\/p>",
+    "property_view_file": "Visa fil",
+    "applied_discounts": "Tillämpade rabatter",
+    "taxes_shipping_at_checkout_html": "Skatter &amp; <a href=\"\/policies\/shipping-policy\" target=\"_blank\">Frakt<\/a> beräknas i kassan"
+  }
+}
