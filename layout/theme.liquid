@@ -68,5 +68,23 @@
     render 'rich-snippets'
   %}
 </body>
+
+<script>
+function changeLanguage() {
+  var selector = document.getElementById('languageSelector');
+  var selectedLanguage = selector.value;
+  var currentUrl = window.location.href;
+  var basePath = currentUrl.substring(0, currentUrl.indexOf('/', 8)); // This extracts the base URL before the language path
+
+  if (currentUrl.includes('/en') || currentUrl.includes('/sv')) { // Add other language codes if necessary
+    newUrl = currentUrl.replace(/\/(en|sv)/, '/' + selectedLanguage); // Replace existing language code
+  } else {
+    newUrl = basePath + '/' + selectedLanguage + window.location.pathname; // Append language code if not present
+  }
+
+  window.location.href = newUrl;
+}
+</script>
+
 </html>
     
