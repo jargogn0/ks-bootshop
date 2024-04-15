@@ -42,6 +42,17 @@
     {% sections 'header-group' %}
   </div>
 
+  <div id="header-group" class="sticky-top">
+  {% sections 'header-group' %}
+  <select id="languageSelector" onchange="changeLanguage()">
+    <option value="en">English</option>
+    <option value="fr">French</option>
+    <option value="es">Spanish</option>
+    <!-- Add more languages as needed -->
+  </select>
+</div>
+
+  
   <main id="main">
     {{ content_for_layout }}
   </main>
