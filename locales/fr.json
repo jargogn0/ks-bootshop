@@ -1,0 +1,146 @@
+{
+  "general": {
+    "newsletter": {
+      "submit_button": "S'abonner",
+      "input_label": "Entrez votre adresse email...",
+      "confirmation_text": "Merci de vous être abonné, vous aurez bientôt de nos nouvelles."
+    },
+    "accessibility": {
+      "skip_content": "Aller au contenu",
+      "skip_product_content": "Passer au contenu du produit",
+      "cart": "Chariot",
+      "search": "Recherche",
+      "wishlist": "Liste de souhaits",
+      "recently_viewed": "Vu récemment",
+      "account": "Compte",
+      "localization": "Localisation",
+      "previous": "Précédent",
+      "next": "Suivant",
+      "close": "Fermer",
+      "remove": "Retirer",
+      "quantity": "Quantité",
+      "decrease_qty": "Diminuer la quantité",
+      "increase_qty": "Augmenter la quantité",
+      "color_options": "Options de couleur",
+      "social_media_links": "Réseaux sociaux",
+      "payment_methods": "Méthodes de payement",
+      "cart_items": "Articles du panier",
+      "full_screen": "Plein écran",
+      "announcements": "Annonces",
+      "slide_no": "Diapositive {{ number }}",
+      "scroll_down": "Défiler vers le bas"
+    },
+    "blog": {
+      "empty": "Aucun article trouvé!",
+      "count_articles": {
+        "one": "{{ count }} message",
+        "other": "{{ count }} messages"
+      },
+      "tags_btn": "Filtrer par balise",
+      "tags_title": "Filtrer les messages",
+      "tags_show_all": "Voir tout",
+      "posted_in": "Publié dans"
+    },
+    "contact_form": {
+      "name": "Nom",
+      "email": "E-mail",
+      "phone": "Téléphone facultatif)",
+      "send": "Envoyer",
+      "success": "Merci de nous avoir contacté. Nous vous répondrons dans les plus brefs délais."
+    },
+    "search": {
+      "title": "Recherche",
+      "empty_html": "<p>Commencez à taper pour voir les résultats<\/p>",
+      "continue_shopping": "Continuer vos achats",
+      "input_label": "Recherchez notre magasin...",
+      "btn_label": "Recherche",
+      "products": "Des produits",
+      "articles": "Articles de blog",
+      "results": {
+        "one": "{{ count }} résultat trouvé",
+        "other": "{{ count }} résultats trouvés"
+      },
+      "search_for": "Recherchez \" {{ terms }} »",
+      "search_page": {
+        "title": "Rechercher notre magasin",
+        "title_search_performed": "Résultats de recherche",
+        "no_results": "Aucun résultat trouvé pour \" {{ terms }} ». Vérifiez l’orthographe ou utilisez un mot ou une expression différente.",
+        "results_with_count_and_term": {
+          "one": "{{ count }} résultat trouvé pour « {{ terms }} »",
+          "other": "{{ count }} résultats trouvés pour « {{ terms }} »"
+        },
+        "count_products": {
+          "one": "{{ count }} produit",
+          "other": "{{ count }} produits"
+        }
+      }
+    },
+    "wishlist": {
+      "title": "Liste de souhaits",
+      "empty_html": "<p>Votre liste de souhaits est actuellement vide<\/p>",
+      "continue_shopping": "Continuer vos achats",
+      "wishlist": "Liste de souhaits",
+      "add": "Ajouter à la liste de souhaits",
+      "remove": "Supprimer de la liste de souhaits"
+    },
+    "recently_viewed": {
+      "title": "vu récemment",
+      "empty_html": "<p>Votre liste est actuellement vide<\/p>",
+      "continue_shopping": "Continuer vos achats",
+      "remove_all": "Enlever tout"
+    },
+    "404_page": {
+      "title": "404 Page non trouvée",
+      "subtext": "La page que vous cherchiez n'existe pas",
+      "button": "Retournez à la page d'accueil"
+    },
+    "times": {
+      "ago": "il y a",
+      "moments": "des moments",
+      "second": "deuxième",
+      "seconds": "secondes",
+      "hour": "heure",
+      "hours": "heures",
+      "day": "jour",
+      "days": "jours",
+      "expired": "L'offre est expirée !"
+    },
+    "localization": {
+      "title": "Localisation"
+    },
+    "payment_icons": {
+      "secure": "Paiements 100% sécurisés et protégés"
+    },
+    "password_page": {
+      "input_label": "Mot de passe",
+      "btn_label": "Entrer"
+    }
+  },
+  "cart": {
+    "shipping_calculator": {
+      "title": "Calculer Frais de port",
+      "country": "Pays"
+    }
+  },
+  "collection": {
+    "empty_html": "Aucun produit trouvé ! <a href=\"\/collections\/all\">Voir tout \"<\/a>",
+    "sort_by": "Trier par",
+    "count_products": {
+      "one": "{{ count }} produit",
+      "other": "{{ count }} produits"
+    },
+    "filters": {
+      "btn_text": "Filtres",
+      "title": "Filtres",
+      "reset": "Réinitialiser",
+      "from": "Depuis",
+      "to": "À",
+      "view_more": "Voir plus",
+      "clear_filter": "Effacer le filtre",
+      "clear_all": "Supprimer tous les filtres",
+      "view_results": {
+        "one": "Voir {{ count }} produit"
+      }
+    }
+  }
+}
