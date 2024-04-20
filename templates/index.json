@@ -65,11 +65,11 @@
             "overlay_opacity": 30,
             "overlay_blur": 0,
             "subtitle": "Optional Subtitle",
-            "title": "Welcome to our store",
+            "title": "Welcome to AfiaEco",
             "description": "<p><strong>Peanut Delights<\/strong><br\/>Discover Peanut Powder, often called Guerté Noflaye, which is produced in Senegal by transforming roasted peanuts into a fine powder. This peanut powder is a versatile ingredient, often used in Senegalese cuisine. Accompanied by our delicious peanut paste, Tigadégué, which is a paste made from roasted peanuts, prepared with top-quality peanuts, it creates an exceptional taste experience.<\/p>",
-            "btn_primary_text": "Primary button",
+            "btn_primary_text": "AfiaEco Collections",
             "btn_primary_url": "",
-            "btn_secondary_text": "Secondary button",
+            "btn_secondary_text": "Best Deals",
             "btn_secondary_url": ""
           }
         }
