@@ -161,5 +161,17 @@
     "gift_upsell": {
       "title": "Lägg till presentförpackning"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "payment": {
+        "shop_pay_ideal_unavailable_error": "iDEAL är inte tillgängligt för denna beställning. Välj en annan betalningsmetod.",
+        "pending_payment": {
+          "multibanco": {
+            "buyer_action_info": "Din betalning på %{amount_due} förfaller."
+          }
+        }
+      }
+    }
   }
 }
