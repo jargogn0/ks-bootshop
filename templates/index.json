@@ -388,7 +388,7 @@
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4615.jpg",
             "title": "First Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "description": "<p>Karité (Shea butter) is a natural substance rich in vitamin A and vitamin E. It's super hydrating, softens the skin, relieves dry and itchy skin, soothes skin rashes, heals imperfections.<\/p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -398,7 +398,7 @@
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4619.jpg",
             "title": "Second Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "description": "<p>Foño (Fonio) is a whole grain that’s a great source of plant-based amino acids. Additionally, it may help moderate blood sugar levels, and it’s naturally gluten-free. <\/p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -408,7 +408,7 @@
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4623.jpg",
             "title": "Third Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "description": "<p>Arraw<\/p><p>Thiéré<\/p><p>Sankal <\/p><p>Thiakri<\/p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -416,9 +416,9 @@
         "item_9EkHYL": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/IMG_4618.jpg",
+            "img": "shopify:\/\/shop_images\/IMG_4617.jpg",
             "title": "Fourth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "description": "<p>Arraw (Rullat hirsmjöl) offers several benefits.complex carbohydrates, providing sustained energy. Millet is also rich in fiber, which aids digestion and helps keep you feeling full. <\/p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -426,6 +426,7 @@
         "item_iKKgHJ": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/IMG_4618.jpg",
             "title": "Fifth Card",
             "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
             "btn_text": "Learn more",
@@ -435,6 +436,7 @@
         "item_Je3xNm": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/c1f5840f-afb0-427b-8e15-7684058308d8_6db923c9-2617-4902-920e-90b83a48075d.jpg",
             "title": "Sixth Card",
             "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
             "btn_text": "Learn more",
@@ -460,7 +462,7 @@
         "border_color": "border-body",
         "border_opacity": 100,
         "container_max_width": "",
-        "header_title": "Card Slider",
+        "header_title": "Tawfeex",
         "header_title_font_size": "h3",
         "header_description": "<p>Add on optional description for this section<\/p>",
         "header_description_font_size": "fs-md",
