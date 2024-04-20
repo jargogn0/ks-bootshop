@@ -30,9 +30,9 @@
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "AfiaShop Jamm Rekk",
-            "title": "Simple to Use, Easy to Customize",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.<\/p>",
+            "subtitle": "AfiaEco Jamm Rekk",
+            "title": "AfiaEco",
+            "description": "<p>AfiaEco<\/p>",
             "btn_primary_text": "Primary button",
             "btn_primary_url": "",
             "btn_secondary_text": "Secondary button",
@@ -174,14 +174,16 @@
           "type": "collection",
           "settings": {
             "collection": "collection-maagal",
-            "title": "Superior Quality Grains:Dive into the sensory experience of authentic Senegalese grains, including sankal (millet breakage), thiakry (wheat or millet pellets), arraw (rolled millet flour), thiéré (fine millet couscous), and soungouf (millet flour), all derived from the same category from Dougoup, which is millet. Also explore our various varieties made from cassava, corn, and fonio (belonging to the millet family and resembling shrunken couscous), offering unique textures and flavors."
+            "img": "shopify:\/\/shop_images\/IMG_4615.jpg",
+            "title": "Karité (Shea butter)Suédois: Shea SmörDescription: Shea butter is a natural substance rich in vitamin A and vitamin E. Beneficial for the cardiovascular system. It's super hydrating, softens the skin, relieves dry and itchy skin, soothes skin rashes, heals imperfections, delays signs of aging, protects against sun damage, promotes healing of various skin conditions, reduces and prevents stretch marks during pregnancy, and reduces scar tissue."
           }
         },
         "collection_KdHXk9": {
           "type": "collection",
           "settings": {
             "collection": "gamou",
-            "title": "Natural Body BalmsTake care of your skin with our natural body ointments made from shea butter, skillfully blended with ingredients such as honey, carrot, aloe vera, lemon, coconut, cocoa, ginger, moringa, turmeric, and soumpou (desert date). Offer your skin natural hydration and a feeling of well-being."
+            "img": "shopify:\/\/shop_images\/IMG_4617.jpg",
+            "title": "Arraw (Rolled millet flour)Arraw (Rullat hirsmjöl) Description:Arraw offers several benefits. It's a good source of complex carbohydrates, providing sustained energy. Millet is also rich in fiber, which aids digestion and helps keep you feeling full. Additionally, it contains essential nutrients like magnesium, phosphorus, iron and B vitamins."
           }
         },
         "collection_b7ELCB": {
