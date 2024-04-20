@@ -49,7 +49,24 @@
             "overlay_blur": 0,
             "subtitle": "Optional Subtitle",
             "title": "Welcome to our store",
-            "description": "<p>An optional description for this slide<\/p>",
+            "description": "<p><strong>Peanut Delights<\/strong><br\/>Discover Peanut Powder, often called Guerté Noflaye, which is produced in Senegal by transforming roasted peanuts into a fine powder. This peanut powder is a versatile ingredient, often used in Senegalese cuisine. Accompanied by our delicious peanut paste, Tigadégué, which is a paste made from roasted peanuts, prepared with top-quality peanuts, it creates an exceptional taste experience.<\/p>",
+            "btn_primary_text": "Primary button",
+            "btn_primary_url": "",
+            "btn_secondary_text": "Secondary button",
+            "btn_secondary_url": ""
+          }
+        },
+        "slide_9r4qqz": {
+          "type": "slide",
+          "settings": {
+            "img_mobile": "shopify:\/\/shop_images\/IMG_4619.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/IMG_4619.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "overlay_blur": 0,
+            "subtitle": "Optional Subtitle",
+            "title": "Welcome to our store",
+            "description": "<p><strong>Peanut Delights<\/strong><br\/>Discover Peanut Powder, often called Guerté Noflaye, which is produced in Senegal by transforming roasted peanuts into a fine powder. This peanut powder is a versatile ingredient, often used in Senegalese cuisine. Accompanied by our delicious peanut paste, Tigadégué, which is a paste made from roasted peanuts, prepared with top-quality peanuts, it creates an exceptional taste experience.<\/p>",
             "btn_primary_text": "Primary button",
             "btn_primary_url": "",
             "btn_secondary_text": "Secondary button",
@@ -60,7 +77,8 @@
       "block_order": [
         "slide_Q4UPQq",
         "slide_TddqxQ",
-        "slide_nYqYqK"
+        "slide_nYqYqK",
+        "slide_9r4qqz"
       ],
       "settings": {
         "bg_color": "bg-body",
