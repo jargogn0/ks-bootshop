@@ -33,9 +33,9 @@
             "subtitle": "AfiaEco Jamm Rekk",
             "title": "AfiaEco",
             "description": "<p><strong>Superior Quality Cereals<\/strong><br\/>Dive into the sensory experience of authentic Senegalese cereals, including sankal (broken millet), thiakry (wheat or millet granules), arraw (rolled millet flour), thiéré (fine millet couscous), and soungouf (millet flour), all sourced from the same category of millet called Dougoup. Also, explore our diverse varieties based on cassava, corn, and fonio (a millet family member that looks like shriveled couscous), offering unique textures and flavors.<\/p>",
-            "btn_primary_text": "Primary button",
+            "btn_primary_text": "Collection Afia Arraw",
             "btn_primary_url": "",
-            "btn_secondary_text": "Secondary button",
+            "btn_secondary_text": "Collection Afia Thiere",
             "btn_secondary_url": ""
           }
         },
@@ -47,12 +47,12 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30,
             "overlay_blur": 0,
-            "subtitle": "Optional Subtitle",
-            "title": "Welcome to our store",
+            "subtitle": "AfiaEco",
+            "title": "AfiaEco",
             "description": "<p><strong>Peanut Delights<\/strong><br\/>Discover Peanut Powder, often called Guerté Noflaye, which is produced in Senegal by transforming roasted peanuts into a fine powder. This peanut powder is a versatile ingredient, often used in Senegalese cuisine. Accompanied by our delicious peanut paste, Tigadégué, which is a paste made from roasted peanuts, prepared with top-quality peanuts, it creates an exceptional taste experience.<\/p>",
-            "btn_primary_text": "Primary button",
+            "btn_primary_text": "Afia  Cafe Touba",
             "btn_primary_url": "",
-            "btn_secondary_text": "Secondary button",
+            "btn_secondary_text": "Afia The Gingembre",
             "btn_secondary_url": ""
           }
         },
@@ -116,8 +116,8 @@
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
+        "bg_gradient": "bg-gradient",
+        "text_color": "text-secondary",
         "border_top_width": 0,
         "border_bottom_width": 0,
         "border_color": "border-primary",
