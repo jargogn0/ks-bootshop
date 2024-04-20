@@ -131,7 +131,7 @@
           "the-gingembre-bissap",
           "cafe-touba"
         ],
-        "collection": "frontpage",
+        "collection": "",
         "limit": 8,
         "recommended_mode": true,
         "recommended_mode_intent": "related",
