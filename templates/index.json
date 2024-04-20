@@ -250,13 +250,6 @@
             "img": "shopify:\/\/shop_images\/IMG_4620.jpg",
             "title": "Sankal (broken millet)Sankal (brisure de mil)Sankal (bruten hirs) Description:Sankal is a semolina formed from crushed millet grains.Often used to prepare millet porridge (Laax) which is very common in Senegal sankhal shares the same benefits as araw because it is the same family, everything comes from the basic product which is « millet »"
           }
-        },
-        "collection_kRQqkR": {
-          "type": "collection",
-          "settings": {
-            "collection": "sale",
-            "title": ""
-          }
         }
       },
       "block_order": [
@@ -264,8 +257,7 @@
         "collection_KdHXk9",
         "collection_b7ELCB",
         "collection_XRMXNt",
-        "collection_fQ9QDf",
-        "collection_kRQqkR"
+        "collection_fQ9QDf"
       ],
       "settings": {
         "bg_color": "bg-body",
