@@ -124,7 +124,12 @@
         "border_opacity": 100,
         "container_max_width": "",
         "products": [
-
+          "fonde",
+          "thiere",
+          "karite",
+          "afia-shampoo",
+          "the-gingembre-bissap",
+          "cafe-touba"
         ],
         "collection": "frontpage",
         "limit": 8,
