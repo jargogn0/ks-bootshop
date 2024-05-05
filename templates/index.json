@@ -466,7 +466,7 @@
             "video_autoplay": true,
             "video_loop": true,
             "video_muted": true,
-            "video_controls": true,
+            "video_controls": false,
             "external_video": "",
             "text_align_mobile": "text-center",
             "text_align_desktop": "text-desktop-center",
