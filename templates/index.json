@@ -819,9 +819,9 @@
         "container": "container",
         "container_max_width": "",
         "text_align": "text-center",
-        "header_title": "AfiaEco Location",
+        "header_title": "Location",
         "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
+        "header_description": "<p>We are open 24h - 7\/7<\/p>",
         "header_description_font_size": "fs-md",
         "pt": 10,
         "pb": 10
