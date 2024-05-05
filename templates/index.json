@@ -180,92 +180,6 @@
         "pb": 12
       }
     },
-    "featured_collections_n3Br7m": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_rznnLq": {
-          "type": "collection",
-          "settings": {
-            "collection": "collection-maagal",
-            "img": "shopify:\/\/shop_images\/IMG_5033.jpg",
-            "title": "Beignets"
-          }
-        },
-        "collection_KdHXk9": {
-          "type": "collection",
-          "settings": {
-            "collection": "gamou",
-            "img": "shopify:\/\/shop_images\/IMG_4617.jpg",
-            "title": "Full-Service Catering"
-          }
-        },
-        "collection_b7ELCB": {
-          "type": "collection",
-          "settings": {
-            "collection": "tabaski",
-            "img": "shopify:\/\/shop_images\/IMG_4619.jpg",
-            "title": "Event Planning Assistance"
-          }
-        },
-        "collection_XRMXNt": {
-          "type": "collection",
-          "settings": {
-            "collection": "babies",
-            "img": "shopify:\/\/shop_images\/IMG_4623.jpg",
-            "title": "Quality and Freshness"
-          }
-        },
-        "collection_fQ9QDf": {
-          "type": "collection",
-          "settings": {
-            "collection": "latest",
-            "img": "shopify:\/\/shop_images\/IMG_4620.jpg",
-            "title": "Interactive Cooking Demonstrations"
-          }
-        }
-      },
-      "block_order": [
-        "collection_rznnLq",
-        "collection_KdHXk9",
-        "collection_b7ELCB",
-        "collection_XRMXNt",
-        "collection_fQ9QDf"
-      ],
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 1,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 10,
-        "container_max_width": "",
-        "header_title": "Discover AfiaCatering",
-        "header_title_font_size": "h3",
-        "header_description": "<p>Experience the vibrant flavors of Senegal with AfiaCatering, your go-to for authentic Senegalese cuisine at any event. Our expert team offers customizable menus featuring dishes like Yassa, Mafé, and Thieboudienne, catering to all dietary needs with vegetarian, vegan, and gluten-free options. We handle every aspect of your event from setup to cleanup, ensuring a seamless experience. Enhance your gathering with our interactive cooking demonstrations, where guests can learn about the preparation of traditional Senegalese meals. Choose AfiaCatering for a memorable celebration filled with the best of Senegal's culinary traditions. Contact us to start planning your event!<\/p>",
-        "header_description_font_size": "",
-        "slider_speed": 300,
-        "slider_navigation": true,
-        "slider_pagination": true,
-        "slider_pagination_type": "bullets",
-        "slider_scrollbar": true,
-        "slider_partial_slides_mobile": false,
-        "slider_autoplay": 0,
-        "collection_card_text_align": "text-center",
-        "collection_card_img_orientation": "ratio-16x9",
-        "collection_card_img_border": "img-thumbnail",
-        "collection_card_show_title": true,
-        "collection_card_title_font_size": "fs-md",
-        "collection_card_title_position": "collection-card-title-normal",
-        "collection_card_show_product_count": true,
-        "breakpoint_mobile": 1,
-        "breakpoint_tablet": 2,
-        "breakpoint_desktop": 3,
-        "pt": 11,
-        "pb": 11
-      }
-    },
     "richtext_AtYwxr": {
       "type": "richtext",
       "disabled": true,
@@ -305,6 +219,119 @@
         "container_max_width": "",
         "pt": 0,
         "pb": 10
+      }
+    },
+    "card_slider_BFzjjF": {
+      "type": "card-slider",
+      "blocks": {
+        "item_qp7jPa": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/IMG_5033.jpg",
+            "title": "First Card",
+            "description": "<p>Karité (Shea butter) is a natural substance rich in vitamin A and vitamin E. It's super hydrating, softens the skin, relieves dry and itchy skin, soothes skin rashes, heals imperfections.<\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        },
+        "item_h9wANh": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/D23D3A0D-3527-4CDD-BC12-CCDBEC03E902.jpg",
+            "title": "Second Card",
+            "description": "<p>Foño (Fonio) is a whole grain that’s a great source of plant-based amino acids. Additionally, it may help moderate blood sugar levels, and it’s naturally gluten-free. <\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        },
+        "item_hAPJWn": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/JusdeBissapBlanc_JusHibiscusBlanc-AistouCuisine.jpg",
+            "title": "Third Card",
+            "description": "<p>Arraw<\/p><p>Thiéré<\/p><p>Sankal <\/p><p>Thiakri<\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        },
+        "item_9EkHYL": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/8D2A0E01-6B5F-41DF-B85C-B9BAB367ED12.jpg",
+            "title": "Fourth Card",
+            "description": "<p>Arraw (Rullat hirsmjöl) offers several benefits.complex carbohydrates, providing sustained energy. Millet is also rich in fiber, which aids digestion and helps keep you feeling full. <\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        },
+        "item_iKKgHJ": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/IMG_4618.jpg",
+            "title": "Fifth Card",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        },
+        "item_Je3xNm": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/IMG_4617.jpg",
+            "title": "Sixth Card",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "btn_text": "Learn more",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_qp7jPa",
+        "item_h9wANh",
+        "item_hAPJWn",
+        "item_9EkHYL",
+        "item_iKKgHJ",
+        "item_Je3xNm"
+      ],
+      "settings": {
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-body",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "container_max_width": "",
+        "header_title": "",
+        "header_title_font_size": "h3",
+        "header_description": "<p>Experience the vibrant flavors of Senegal with AfiaCatering, your go-to for authentic Senegalese cuisine at any event. Our expert team offers customizable menus featuring dishes like Yassa, Mafé, and Thieboudienne, catering to all dietary needs with vegetarian, vegan, and gluten-free options. We handle every aspect of your event from setup to cleanup, ensuring a seamless experience. Enhance your gathering with our interactive cooking demonstrations, where guests can learn about the preparation of traditional Senegalese meals. Choose AfiaCatering for a memorable celebration filled with the best of Senegal's culinary traditions. Contact us to start planning your event!<\/p>",
+        "header_description_font_size": "fs-md",
+        "slider_speed": 300,
+        "slider_navigation": true,
+        "slider_pagination": true,
+        "slider_pagination_type": "bullets",
+        "slider_scrollbar": true,
+        "slider_partial_slides_mobile": true,
+        "slider_autoplay": 0,
+        "item_bg_color": "bg-body",
+        "item_bg_opacity": 0,
+        "item_text_color": "text-body",
+        "item_border_width": 1,
+        "item_border_color": "",
+        "item_border_opacity": 100,
+        "item_shadow": "shadow-sm",
+        "item_text_align": "text-start",
+        "item_img_orientation": "ratio-4x3",
+        "item_title_font_size": "h5",
+        "item_description_font_size": "",
+        "item_btn_color": "btn-outline-primary",
+        "item_btn_size": "btn-sm",
+        "breakpoint_mobile": 1,
+        "breakpoint_tablet": 2,
+        "breakpoint_desktop": 4,
+        "pt": 10,
+        "pb": 11
       }
     },
     "media_with_text_xTY8gi": {
@@ -715,10 +742,10 @@
         "pb": 11
       }
     },
-    "card_slider_BFzjjF": {
+    "card_slider_TUbdXp": {
       "type": "card-slider",
       "blocks": {
-        "item_qp7jPa": {
+        "item_xDzxUh": {
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4615.jpg",
@@ -728,7 +755,7 @@
             "btn_url": ""
           }
         },
-        "item_h9wANh": {
+        "item_rRrKq6": {
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4619.jpg",
@@ -738,7 +765,7 @@
             "btn_url": ""
           }
         },
-        "item_hAPJWn": {
+        "item_D9mUrx": {
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4623.jpg",
@@ -748,7 +775,7 @@
             "btn_url": ""
           }
         },
-        "item_9EkHYL": {
+        "item_QMqr3k": {
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4617.jpg",
@@ -758,7 +785,7 @@
             "btn_url": ""
           }
         },
-        "item_iKKgHJ": {
+        "item_HPWpct": {
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4618.jpg",
@@ -768,7 +795,7 @@
             "btn_url": ""
           }
         },
-        "item_Je3xNm": {
+        "item_RG7LU9": {
           "type": "item",
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_4617.jpg",
@@ -780,12 +807,12 @@
         }
       },
       "block_order": [
-        "item_qp7jPa",
-        "item_h9wANh",
-        "item_hAPJWn",
-        "item_9EkHYL",
-        "item_iKKgHJ",
-        "item_Je3xNm"
+        "item_xDzxUh",
+        "item_rRrKq6",
+        "item_D9mUrx",
+        "item_QMqr3k",
+        "item_HPWpct",
+        "item_RG7LU9"
       ],
       "settings": {
         "bg_color": "bg-body",
@@ -1088,12 +1115,12 @@
     "hero_carousel_CmDneU",
     "featured_products_nXJKQn",
     "richtext_4miPYL",
-    "featured_collections_n3Br7m",
     "richtext_AtYwxr",
     "separator_kfq8kz",
+    "card_slider_BFzjjF",
     "media_with_text_xTY8gi",
     "featured_collections_Yaki3T",
-    "card_slider_BFzjjF",
+    "card_slider_TUbdXp",
     "html_Y7Cp8x",
     "faq_7TT7z4",
     "testimonials_eFtnyC",
