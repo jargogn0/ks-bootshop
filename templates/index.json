@@ -500,6 +500,44 @@
             "pb": 10
           }
         },
+        "row_CMHVbg": {
+          "type": "row",
+          "settings": {
+            "bg_color": "bg-secondary",
+            "bg_opacity": 5,
+            "bg_gradient": "",
+            "text_color": "text-body",
+            "border_top_width": 1,
+            "border_bottom_width": 1,
+            "border_color": "border-primary",
+            "border_opacity": 10,
+            "media_align_desktop": "",
+            "media_border": "rounded",
+            "img_orientation": "ratio-9x16",
+            "video": "shopify:\/\/files\/videos\/4536833122059109659.MP4",
+            "video_ratio": "ratio-1x1",
+            "video_autoplay": true,
+            "video_loop": true,
+            "video_muted": true,
+            "video_controls": true,
+            "external_video": "",
+            "text_align_mobile": "text-center",
+            "text_align_desktop": "text-desktop-center",
+            "subtitle": "Optional Subtitle",
+            "title": "Media with text",
+            "title_font_size": "h3",
+            "description": "<p>Either show an image, video (MP4) or an external video (YouTube). If no text block is shown, the media will take full section's space.<\/p>",
+            "description_font_size": "fs-md",
+            "btn_primary_text": "Primary button",
+            "btn_primary_url": "",
+            "btn_primary_color": "btn-primary",
+            "btn_secondary_text": "Secondary button",
+            "btn_secondary_url": "",
+            "btn_secondary_color": "btn-outline-primary",
+            "pt": 10,
+            "pb": 10
+          }
+        },
         "row_EUDEXM": {
           "type": "row",
           "settings": {
@@ -583,6 +621,7 @@
         "row_j4FMbX",
         "row_8tzKTG",
         "row_Qj7TtT",
+        "row_CMHVbg",
         "row_EUDEXM",
         "row_RQwLMj"
       ],
