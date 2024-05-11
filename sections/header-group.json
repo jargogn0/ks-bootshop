@@ -51,12 +51,12 @@
             "container_max_width": "",
             "logo": "shopify:\/\/shop_images\/IMG-20231205-WA0238-1.jpg",
             "logo_transparent": "shopify:\/\/shop_images\/IMG-20231205-WA0238-1.jpg",
-            "logo_height": 30,
+            "logo_height": 74,
             "main_menu": "",
             "collections_menu": "",
             "social_icons": true,
-            "pt": 2,
-            "pb": 2
+            "pt": 5,
+            "pb": 4
           }
         },
         "069e870e-aed4-4929-bf73-c0daca8be18e": {
